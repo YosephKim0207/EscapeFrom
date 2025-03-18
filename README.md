@@ -190,7 +190,7 @@ if(GetbIsShootable() && GetbIsRightArmOnFire())
 	
 ### 모듈식 캐릭터 생성
 
-![Modular](https://github.com/YosephKim0207/EscapeFrom/assets/46564046/b3f9489e-3e05-4bf2-9edf-806c4d8edb2c)
+![Modular](https://github.com/YosephKim0207/EscapeFromAC/assets/46564046/b3f9489e-3e05-4bf2-9edf-806c4d8edb2c)
 
 ---
 
